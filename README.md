@@ -25,32 +25,33 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#requirements">Requirements</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#showyoursupport">Show your support</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](images/screenshot.png)
 
 The theoretical pattern detection model aims to automatically identify spatial and temporal behavioral patterns of moving objects in video sequences.
 
 ## Keywords:
-* artificial intelligence
-* causality; extraction of information
-* inference of activities
-* intelligence system
-* temporal patterns
+
+* Artificial intelligence
+* Causality
+* Extraction of information
+* Inference of activities
+* Intelligence system
+* Temporal patterns
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,10 +60,10 @@ The theoretical pattern detection model aims to automatically identify spatial a
 
 This section lists the main frameworks/libraries used to start the project:
 
-* [![Python][Python]][https://www.python.org]
-* [![Dataset][Dataset]][./Featureextraction/HDV_0056]
-* [![Lambda server][Lambda server]][https://lambdalabs.com]
-* [![Dome cameras][Dome cameras]][https://www.vivotek.com/products/network-cameras/speed-dome-cameras]
+* [Python][https://www.python.org]
+* [Dataset][./Featureextraction/HDV_0056]
+* [Lambda server][https://lambdalabs.com]
+* [Dome cameras][https://www.vivotek.com/products/network-cameras/speed-dome-cameras]
 
 
 
@@ -73,6 +74,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Requirements
+
 This model requires the following modules:
 
 - [Anaconda-Navigator](https://docs.anaconda.com/free/anaconda/install/)
@@ -86,7 +88,8 @@ Use the package manager [conda](https://conda.io/projects/conda/en/latest/comman
 conda install anaconda-navigator
 ```
 
-### Usage
+## Usage
+
 1. Launch Anaconda-Navigator
     a) Windows: From the Start menu, search for “Anaconda Navigator” and click to open.
     b) MacOS: Open Launchpad, then click the Anaconda-Navigator icon.
@@ -97,12 +100,31 @@ anaconda-navigator
 2. Launch Jupyter Notebook. Select or click on *patterndetectionmodel.ipynb* file
 3. Use the icons on the Notepad toolbar (**Run**, icon).
 
-### Contributing
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/somethingtodo`)
+3. Commit your Changes (`git commit -m 'Add some somethingtodo'`)
+4. Push to the Branch (`git push origin feature/somethingtodo`)
+5. Open a Pull Request
 
 Please make sure to update tests as appropriate.
 
-### License
+## License
+
 N/A
+
+<!-- CONTACT -->
+## Contact
+
+Overview: [https://github.com/trejoan1](https://github.com/trejoan1)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Show your support
 
