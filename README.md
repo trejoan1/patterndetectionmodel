@@ -40,7 +40,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](images/screenshot.png)
+<div align="center">
+  <a>
+    <img src="images/screenshot.png" alt="PatternDetectionModel-Screenshot" width="200" height="180">
+  </a>
+</div>
 
 The theoretical pattern detection model aims to automatically identify spatial and temporal behavioral patterns of moving objects in video sequences.
 
