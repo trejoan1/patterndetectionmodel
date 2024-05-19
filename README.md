@@ -42,7 +42,7 @@
 
 <div align="center">
   <a>
-    <img src="images/screenshot.png" alt="PatternDetectionModel-Screenshot" width="200" height="180">
+    <img src="images/screenshot.png" alt="PatternDetectionModel-Screenshot" width="600" height="400">
   </a>
 </div>
 
