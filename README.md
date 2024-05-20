@@ -1,3 +1,13 @@
+<a name="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
+
+
 <div align="center">
   <a>
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -81,8 +91,8 @@ To get a local copy up and running follow these simple example steps.
 
 This model requires the following modules:
 
-- [Anaconda-Navigator](https://docs.anaconda.com/free/anaconda/install/)
 - [Pyhton 3](https://www.python.org/downloads/)
+- [Anaconda-Navigator](https://docs.anaconda.com/free/anaconda/install/)
 
 ### Installation
 
@@ -130,7 +140,7 @@ Overview: [https://github.com/trejoan1](https://github.com/trejoan1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Show your support
+## Show your support
 
 Give a ⭐️ if this project helped you!
 
