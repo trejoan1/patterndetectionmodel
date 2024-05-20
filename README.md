@@ -66,10 +66,10 @@ The theoretical pattern detection model aims to automatically identify spatial a
 
 This section lists the main frameworks/libraries used to start the project:
 
-* [Python][https://www.python.org]
-* [Dataset][./Featureextraction/HDV_0056]
-* [Lambda server][https://lambdalabs.com]
-* [Dome cameras][https://www.vivotek.com/products/network-cameras/speed-dome-cameras]
+* [Python](https://www.python.org)
+* [Dataset](./Featureextraction/HDV_0056)
+* [Lambda server](https://lambdalabs.com)
+* [Dome cameras](https://www.vivotek.com/products/network-cameras/speed-dome-cameras)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
