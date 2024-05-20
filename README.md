@@ -1,13 +1,5 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-
 <div align="center">
   <a>
     <img src="images/logo.png" alt="Logo" width="80" height="80">
@@ -79,7 +71,7 @@ This section lists the main frameworks/libraries used to start the project:
 * [Lambda server][https://lambdalabs.com]
 * [Dome cameras][https://www.vivotek.com/products/network-cameras/speed-dome-cameras]
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -102,6 +94,8 @@ Use the package manager [conda](https://conda.io/projects/conda/en/latest/comman
 conda install anaconda-navigator
 ```
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Usage
 
 1. Launch Anaconda-Navigator
@@ -113,6 +107,8 @@ anaconda-navigator
 ```
 2. Launch Jupyter Notebook. Select or click on *patterndetectionmodel.ipynb* file
 3. Use the icons on the Notepad toolbar (**Run**, icon).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 
@@ -129,9 +125,13 @@ Don't forget to give the project a star! Thanks again!
 
 Please make sure to update tests as appropriate.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## License
 
 N/A
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
