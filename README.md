@@ -52,12 +52,13 @@ The theoretical pattern detection model aims to automatically identify spatial a
 
 ## Keywords:
 
-* Artificial intelligence
-* Causality
-* Extraction of information
-* Inference of activities
-* Intelligence system
-* Temporal patterns
+- [x] Artificial Intelligence
+- [x] Extraction of Information
+- [x] Inference of Activities
+- [x] Intelligence System
+- [x] Temporal Patterns
+- [x] Causality
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
